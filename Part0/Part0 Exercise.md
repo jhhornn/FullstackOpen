@@ -1,0 +1,12 @@
+## The WebSequence Diagram with Redirect
+![The WebSequence Diagram with Redirect](./images/HTTP%20Request.png)
+Click the [link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgV2ViU2VxdWVuY2UgRGlhZ3JhbSB3aXRoIFJlZGlyZWN0CgpTZWxhaW4tPlBhbHZlbGluOiBIVFRQIFBPU1QgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbmV3X25vdGUKbm90ZSByaWdodCBvZiAASwpSZWNlaXZlcyBhIHBvc3QgcmVxdWVzdCBmcm9tIAB-BgoAewgtLT4AgRAGOiBIVE1MLQBUCQCBFRdHRQB-LW90ZXMAUhoAH0ltYWluLmNzAFYVABMJAII4RgBmBWoAUBpqAFAZAIINLmRhdGEuanNvAIMWFVt7ImNvbnRlbnQiOiJ0ZXN0IiwiZGF0ZSI6IjIwMjItMDktMDZUMDk6MTc6NTAuOTc5WiJ9LC4uLl0KCgoK&s=default) to access the image above.
+
+
+---
+
+
+## The WebSequence Diagram with Single Page App
+![The WebSequence Diagram with Single Page App](./images/HTTP%20Request2.png)
+
+Click the [link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgVGhlIFdlYlNlcXVlbmNlIERpYWdyYW0gd2l0aCBTaW5nbGUgUGFnZSBBcHAKClNlbGFpbi0-UGFsdmVsaW46IEhUVFAgR0VUIGh0dHBzOi8vc3R1ZGllcy5jcy5oZWxzaW5raS5maS9leGFtcGxlYXBwL3NwYQoAOQgtLT4ATgY6IEhUTUwtc3BhAB9GbWFpbi5jc3MAVhQAEwkAgTgXUE9TAIEhLy5qAFQVABMHAIFxRWRhdGEuanNvbgCCKBRbeyJjb250ZW50IjoiaG9sYSA6KSIsImRhdGUiOiIyMDIyLTA5LTA2VDEyOjMyOjM2LjIyOFoifSwuLi5dCg&s=default) to access the image above.
