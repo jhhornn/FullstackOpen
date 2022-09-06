@@ -1,5 +1,6 @@
 ## The WebSequence Diagram with Redirect
 ![The WebSequence Diagram with Redirect](./images/HTTP%20Request.png)
+
 Click the [link](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgV2ViU2VxdWVuY2UgRGlhZ3JhbSB3aXRoIFJlZGlyZWN0CgpTZWxhaW4tPlBhbHZlbGluOiBIVFRQIFBPU1QgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbmV3X25vdGUKbm90ZSByaWdodCBvZiAASwpSZWNlaXZlcyBhIHBvc3QgcmVxdWVzdCBmcm9tIAB-BgoAewgtLT4AgRAGOiBIVE1MLQBUCQCBFRdHRQB-LW90ZXMAUhoAH0ltYWluLmNzAFYVABMJAII4RgBmBWoAUBpqAFAZAIINLmRhdGEuanNvAIMWFVt7ImNvbnRlbnQiOiJ0ZXN0IiwiZGF0ZSI6IjIwMjItMDktMDZUMDk6MTc6NTAuOTc5WiJ9LC4uLl0KCgoK&s=default) to access the image above.
 
 
